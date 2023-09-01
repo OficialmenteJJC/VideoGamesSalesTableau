@@ -1,2 +1,2 @@
-# Video Games Sales Tableau
+# Video Games Sales Tableau project
 
